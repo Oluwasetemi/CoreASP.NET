@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+   <Category Name="Internet" Icon="images/small_iconInternet.gif">
+      <Book Title="E-Business">
+         <Url>browse.aspx?cat=101</Url>
+      </Book>
+      <Book Title="Servers">
+         <Url>browse.aspx?cat=102</Url>
+      </Book>
+      <Book Title="Usability">
+         <Url>browse.aspx?cat=103</Url>
+      </Book>
+   </Category>
+
+   <Category Name="Networking" Icon="images/small_iconNetworking.gif">
+      <Book Title="Protocols">
+         <Url>browse.aspx?cat=201</Url>
+      </Book>
+      <Book Title="Security">
+         <Url>browse.aspx?cat=202</Url>
+      </Book>
+   </Category>  
+</Books>

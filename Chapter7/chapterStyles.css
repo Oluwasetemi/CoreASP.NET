@@ -1,0 +1,29 @@
+body { font-size: small; font-family: Verdana, Helvetica, Sans-Serif; 
+}
+
+h1
+{
+   font-size: 1.1em;
+   margin: 0;
+}
+h2
+{
+   font-size: 0.95em;
+   margin: 0;
+}
+
+div#container 
+{
+   margin: 0.25em 0.25em 0 0.25em; 
+   border: solid 1pt black; 
+   padding: 0.5em; 
+}
+
+code { font-size: 1.1em; font-family: Courier, Courier New, Fixedsys; }
+
+div.box
+{
+   border: solid 1pt silver;
+   margin: 1em 0;
+   padding: 0.5em;
+}

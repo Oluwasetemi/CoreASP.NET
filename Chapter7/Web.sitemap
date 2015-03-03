@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+   <siteMapNode url="BookHome.aspx" title="Home"  
+            description="Return to home page">
+      <siteMapNode url="Catalog.aspx" title="Catalog" >
+         <siteMapNode url="Categories.aspx" title="Categories" >
+            <siteMapNode url="List.aspx?cat=1" title="Graphics" />
+            <siteMapNode url="List.aspx?cat=2" title="Internet" />
+            <siteMapNode url="List.aspx?cat=3" title="Networking" />
+         </siteMapNode>
+         <siteMapNode url="Series.aspx" title="Series" >
+            <siteMapNode url="List.aspx?series=1" title="Core Series" />
+            <siteMapNode url="List.aspx?series=2" title=".NET Series" />
+            <siteMapNode url="List.aspx?series=3" title="Signature Series"/>
+         </siteMapNode>
+      </siteMapNode>
+      <siteMapNode url="Search.aspx" title="Search"  />
+      <siteMapNode url="Help.aspx" title="Help" >
+         <siteMapNode url="About.aspx" title="About Us" />
+         <siteMapNode url="Contact.aspx" title="Contact Us" />
+      </siteMapNode>
+   </siteMapNode>
+</siteMap>
